@@ -8,10 +8,7 @@ object FileIO {
 
     val items = mutable.MutableList[(String, String, String, String, String)]()
 
-    def prompt(s: String) = {
-      println(s);
-      io.StdIn.readLine()
-    }
+    def prompt(s: String) = {println(s);io.StdIn.readLine()}
 
     Source
       .fromFile("purchases.txt")
@@ -30,7 +27,7 @@ object FileIO {
     }
 
     val input = choice
-    val pw = new PrintWriter(new File("newfile.txt"))
+    val pw = new PrintWriter(new File(s"$input" + "_newfile.txt"))
     val r = items
       .filter(i => i._5.toUpperCase == input)
     .map(i => pw.write(s"Customer: ${i._1}, Date: ${i._2}\n"))
