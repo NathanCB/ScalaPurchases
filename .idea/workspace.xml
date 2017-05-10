@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd70822c-5954-40a7-bea0-119bc74e8ce8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newfile.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/purchasesByCategory.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaPurchases/FileIO$.class" afterPath="$PROJECT_DIR$/out/production/ScalaPurchases/FileIO$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FileIO.scala" afterPath="$PROJECT_DIR$/src/FileIO.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +21,8 @@
       <file leaf-file-name="FileIO.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FileIO.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="66" lean-forward="true" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+            <state relative-caret-position="240">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -635,12 +632,12 @@
       <workItem from="1490191503955" duration="2430000" />
       <workItem from="1490207131255" duration="1421000" />
       <workItem from="1490279396818" duration="18000" />
-      <workItem from="1494432669306" duration="898000" />
+      <workItem from="1494432669306" duration="1372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21499000" />
+    <option name="totallyTimeSpent" value="21973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -848,8 +845,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FileIO.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="66" lean-forward="true" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+        <state relative-caret-position="240">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
