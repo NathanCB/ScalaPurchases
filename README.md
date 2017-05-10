@@ -1,6 +1,6 @@
 # ScalaPurchases
 **As a business owner** <br>
-**I want** to print a list of customer data by typing in a category <br>
+**I want** to input a category of items that I sell<br>
 **so that** I can print a list of customers purchase data for a chosen category.
 
 ### A Scala excersize ###
